@@ -1,0 +1,6 @@
+{"level":"info","message":"getAll: Products retrieved successfully","service":"ProductController","timestamp":"2023-12-26T23:03:16.699Z"}
+{"level":"info","message":"getById: Product retrieved successfully","service":"ProductController","timestamp":"2023-12-26T23:03:50.192Z"}
+{"level":"error","message":"getById: Invalid id","service":"ProductController","timestamp":"2023-12-26T23:03:55.935Z"}
+{"level":"error","message":"getById: Product with id 658a5040f03da27c508432c1 not found","service":"ProductController","timestamp":"2023-12-26T23:04:03.776Z"}
+{"level":"error","message":"create: E11000 duplicate key error collection: ecommerce-mocks.products index: code_1 dup key: { code: \"APPL15\" }","service":"ProductController","timestamp":"2023-12-26T23:05:14.766Z"}
+{"level":"error","message":"create: Missing required fields: stock","service":"ProductController","timestamp":"2023-12-26T23:05:31.073Z"}
