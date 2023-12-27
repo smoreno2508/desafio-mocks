@@ -2,3 +2,7 @@
 {"level":"error","message":"getById: Product with id 658a5040f03da27c508432c1 not found","service":"ProductController","timestamp":"2023-12-26T23:04:03.776Z"}
 {"level":"error","message":"create: E11000 duplicate key error collection: ecommerce-mocks.products index: code_1 dup key: { code: \"APPL15\" }","service":"ProductController","timestamp":"2023-12-26T23:05:14.766Z"}
 {"level":"error","message":"create: Missing required fields: stock","service":"ProductController","timestamp":"2023-12-26T23:05:31.073Z"}
+{"level":"error","message":"create: Missing required fields: stock","service":"ProductController","timestamp":"2023-12-27T00:24:10.707Z"}
+{"level":"error","message":"create: Missing required fields: code, stock","service":"ProductController","timestamp":"2023-12-27T00:25:11.960Z"}
+{"level":"error","message":"getById: Product with id 658b6f02e1ac284e1f8c09b1 not found","service":"ProductController","timestamp":"2023-12-27T00:26:48.452Z"}
+{"level":"error","message":"getById: Invalid id","service":"ProductController","timestamp":"2023-12-27T00:27:20.783Z"}

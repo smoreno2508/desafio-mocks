@@ -31,4 +31,4 @@ class ProductRepository {
     }
 }
 
-export  const productRepository = new ProductRepository(ProductModel);
+export const productRepository = new ProductRepository(ProductModel);
